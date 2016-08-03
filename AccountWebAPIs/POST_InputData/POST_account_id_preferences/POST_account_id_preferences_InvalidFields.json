@@ -1,0 +1,9 @@
+{
+"language":"english",
+"promo":
+{
+"sms":true,
+"email":true,
+"phone":true
+}
+}
