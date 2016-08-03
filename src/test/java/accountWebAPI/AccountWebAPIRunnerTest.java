@@ -9,7 +9,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
 		features = "classpath:features",
 		plugin = {"pretty", "html:target/cucumber-html-report"},
-		tags = {"@GET_billingHistoryValidFields,@GET_billingCallsValidFields"}
+		tags = {}
 		)
 
 public class AccountWebAPIRunnerTest {
